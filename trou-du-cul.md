@@ -138,7 +138,7 @@ paragraphs.*
 
 ---
 
-*For games with uneven numbers of player*, at the beginning of one's turn, one
+**_For games with uneven numbers of player_**, at the beginning of one's turn, one
 may chose to exchange one of the cards on *the table* for a card of their hand
 with a strictly higher rank in **trou du cul card order**.
 > Note that this rule can be deliberately paralysed by exchanging a `2` from
@@ -146,12 +146,12 @@ with a strictly higher rank in **trou du cul card order**.
 
 ---
 
-On the opening turn of a round, the opening player must play one or several
+**_On the opening turn of a round_**, the opening player must play one or several
 cards in a valid **kind of hand**.
 The opening turn of a round fully determines the valid **kind of hand** that
 can be played on that round: when one of {*a single card*, *a pair*, *a three
 of a kind*, *a four of a kind*} is played on the opening turn, only that **kind
-of hand** can be played during for the rest of the round.
+of hand** can be played for the rest of this round.
 Once the opening turn of a round is played, the round proceeds with the turn of
 the next player in the **player order**.
 > Note that it is possible for no players to be able to do anything but
@@ -161,7 +161,7 @@ the next player in the **player order**.
 
 ---
 
-On following turns, one may perform one of the following actions:
+**_On following turns_**, one may perform one of the following actions:
 - **Fold**.
 - Play equal or higher in the current valid **kind of hand**.
 > Note that, as stated, this rule allows for one to chose to **fold** when they
@@ -173,7 +173,7 @@ On following turns, one may perform one of the following actions:
 
 ---
 
-At the beginning of one's turn, if the last play was equal to the one previous,
+**_At the beginning of one's turn, if the last play was equal to the one previous_**,
 the current player can choose between the following actions (in place of the
 standard ones):
 - **Be skipped**.
@@ -183,9 +183,13 @@ standard ones):
 
 ---
 
-At the beginning of one's turn, if the last play revealed the last cards
+**_At the beginning of one's turn, if the last play revealed the last cards
 necessary to complete an uninterrupted sequence of 4 cards of same rank in the
-**trou du cul card order**, the current player can only choose to **fold**.
+trou du cul card order_**, the current player can only choose to **fold**.
 > Note that this rule transitively implies that the player who last played wins
 > the round, as all following players will only be given the option to
 > **fold**.
+
+> Note that this rule implies that playing *a four of a kind* means an instant
+> win on the round. This also implies that only the opening player of a round can
+> play *a four of a kind*.
