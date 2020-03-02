@@ -132,8 +132,9 @@ the players play their turns, they may chose or have to **fold**. When a player
 
 ##### Turns
 
-*The general unfolding of turns is described in the following paragraphs. Keep
-in mind that special cases are described in later paragraphs.*
+*The general unfolding of turns is described in the following paragraphs. As you
+read the first paragraphs, keep in mind that special cases are described in later
+paragraphs.*
 
 *For games with uneven numbers of player*, at the beginning of one's turn, one
 may chose to exchange one of the cards on *the table* for a card of their hand
