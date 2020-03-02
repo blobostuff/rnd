@@ -124,10 +124,11 @@ The first round is started by a player chosen by some mean out of the scope of
 these rules. Following rounds are opened by the winner of the previous round if
 that player is still in game, otherwise, by the next player still in game.
 
-At the beginning of a round, all players become **in round** (except for those
-who are no longer **in game**, duh). As the players play their turns, they may
-chose or have to **fold**. When a player **folds**, they are no longer
-**in round**. A round is won by the last player **in round**.
+At the beginning of a round, all **in game** players become **in round** (those
+who are no longer **in game**no longer play because they won already)(*duh*). As
+the players play their turns, they may chose or have to **fold**. When a player
+**folds**, they are no longer **in round**. A round is won by the last player
+**in round**.
 
 ##### Turns
 
