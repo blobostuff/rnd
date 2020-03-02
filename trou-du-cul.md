@@ -66,7 +66,7 @@ A round is composed of many turns.
     chosen to **fold** in the current round yet.
 - **"player order"**: the **player order** is some given
     [cyclic order](https://en.wikipedia.org/wiki/Cyclic_order) on the players.
-    It defines who "the next" player is e.g. the human to your left)*.
+    It defines who "the next" player is (e.g. the human to your left).
 - **"kind of hand"**: a kind of hand is one of
   * a "single card" (that is, just the one card)
   * a "pair" (that is, 2 cards of same rank in the **trou du cul card order**)
