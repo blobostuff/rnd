@@ -116,7 +116,7 @@ an order which is used to allocate cards for the next game. The overall game of
 #### Detailed rules
 
 A game of "Trou du cul" is divided in many rounds. On each round, players
-follow the "players order" to play their turns.
+follow the *players order* to play their turns.
 
 ##### Rounds
 
