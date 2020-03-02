@@ -60,21 +60,21 @@ basis as reading through the document.
 A game is composed of many rounds.
 A round is composed of many turns.
 
-- **"in game"**: A player is **in game** if they have cards remaining in their
+- **in game**: A player is **in game** if they have cards remaining in their
     hand.
-- **"in round"**: A player is **in round** if they are **in game** and have not
+- **in round**: A player is **in round** if they are **in game** and have not
     chosen to **fold** in the current round yet.
-- **"player order"**: the **player order** is some given
+- **player order**: the **player order** is some given
     [cyclic order](https://en.wikipedia.org/wiki/Cyclic_order) on the players.
     It defines who "the next" player is (e.g. the human to your left).
-- **"kind of hand"**: a kind of hand is one of
+- **kind of hand**: a kind of hand is one of
   * a "single card" (i.e. just the one card)
   * a "pair" (i.e. 2 cards of same rank in the **trou du cul card order**)
   * a "three of a kind" (i.e. 3 cards of same rank in the
       **trou du cul card order**)
   * a "four of a kind" (i.e. 4 cards of same rank in the
       **trou du cul card order**)
-- **trou du cul card order"**: the card order used in "Trou du cul", Basically
+- **trou du cul card order**: the card order used in "Trou du cul", Basically
     the *usual order* with the exception that `2`s are highest, that is
   * for "single card" **kind of hand**:
     `3 < 4 < 5 < 6 < 7 < 8 < 9 < 10 < J < Q < K < A < 2`
@@ -83,9 +83,9 @@ A round is composed of many turns.
   * for "three of a kind" **kind of hand**:
     `{3, 3, 3} < {4, 4, 4} < [...] < {K, K, K} < {A, A, A} < {2, 2, 2}`
     Note that no order need defining for "four of a kind" **kind of hand**.
-- **"be skipped"**: when a player chooses to **be skipped**, they do not
+- **be skipped**: when a player chooses to **be skipped**, they do not
     play cards on this turn and remain **in round**.
-- **"fold"**: when a player chooses to **fold**, they do not play cards on this
+- **fold**: when a player chooses to **fold**, they do not play cards on this
     turn and are no longer **in round**.
 
 ### Setup
