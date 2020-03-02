@@ -136,11 +136,15 @@ the players play their turns, they may chose or have to **fold**. When a player
 read the first paragraphs, keep in mind that special cases are described in later
 paragraphs.*
 
+---
+
 *For games with uneven numbers of player*, at the beginning of one's turn, one
 may chose to exchange one of the cards on *the table* for a card of their hand
 with a strictly higher rank in **trou du cul card order**.
 > Note that this rule can be deliberately paralysed by exchanging a `2` from
 > one's hand.
+
+---
 
 On the opening turn of a round, the opening player must play one or several
 cards in a valid **kind of hand**.
@@ -155,6 +159,8 @@ the next player in the **player order**.
 > start of a new round with the winner of the previous round remaining the
 > winner as per naturally following the rules exposed so far.
 
+---
+
 On following turns, one may perform one of the following actions:
 - **Fold**.
 - Play equal or higher in the current valid **kind of hand**.
@@ -163,7 +169,9 @@ On following turns, one may perform one of the following actions:
 
 ---
 
-*These rules are altered in the following special cases:*
+*These basic rules are altered in the following special cases:*
+
+---
 
 At the beginning of one's turn, if the last play was equal to the one previous,
 the current player can choose between the following actions (in place of the
@@ -172,6 +180,8 @@ standard ones):
 - Play equal in the current valid **kind of hand**.
 > Note that, as stated, this rule allows for one to chose to **be skipped**
 > when they could have played.
+
+---
 
 At the beginning of one's turn, if the last play revealed the last cards
 necessary to complete an uninterrupted sequence of 4 cards of same rank in the
