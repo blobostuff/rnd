@@ -90,7 +90,7 @@ A round is composed of many turns.
 
 ### Setup
 
-Shuffle the deck. Distribute the 52 cards evenly amongst the players:
+Shuffle the deck. Distribute the 52 cards evenly amongst the players. Specifically, for the following numbers of players:
 
 1. ~Shit out of luck, you're alone, you get 52 cards, and you lose... Also, if you are reading this, you've just lost [the game](https://en.wikipedia.org/wiki/The_Game_(mind_game)).~
 2. Each player receives 26 cards.
