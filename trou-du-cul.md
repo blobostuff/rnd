@@ -82,7 +82,7 @@ A round is composed of many turns.
     `{3, 3} < {4, 4} < [...] < {K, K} < {A, A} < {2, 2}`
   * for "three of a kind" **kind of hand**:
     `{3, 3, 3} < {4, 4, 4} < [...] < {K, K, K} < {A, A, A} < {2, 2, 2}`
-    Note that no order need defining for "four of a kind" **kind of hand**.
+  No order need defining for "four of a kind" **kind of hand** *(this is explained in a later section)*.
 - **be skipped**: when a player chooses to **be skipped**, they do not
     play cards on this turn and remain **in round**.
 - **fold**: when a player chooses to **fold**, they do not play cards on this
