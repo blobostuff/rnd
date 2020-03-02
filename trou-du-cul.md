@@ -125,7 +125,7 @@ these rules. Following rounds are opened by the winner of the previous round if
 that player is still in game, otherwise, by the next player still in game.
 
 At the beginning of a round, all **in game** players become **in round** (those
-who are no longer **in game**no longer play because they won already)(*duh*). As
+who are no longer **in game** no longer play because they already won)(*duh*). As
 the players play their turns, they may chose or have to **fold**. When a player
 **folds**, they are no longer **in round**. A round is won by the last player
 **in round**.
@@ -142,7 +142,7 @@ with a strictly higher rank in **trou du cul card order**.
 > one's hand.
 
 On the opening turn of a round, the opening player must play one or several
-cards in a valid ***kind of hand*.
+cards in a valid **kind of hand**.
 The opening turn of a round fully determines the valid **kind of hand** that
 can be played on that round: when one of {*a single card*, *a pair*, *a three
 of a kind*, *a four of a kind*} is played on the opening turn, only that **kind
