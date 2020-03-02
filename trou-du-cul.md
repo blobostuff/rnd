@@ -68,11 +68,11 @@ A round is composed of many turns.
     [cyclic order](https://en.wikipedia.org/wiki/Cyclic_order) on the players.
     It defines who "the next" player is (e.g. the human to your left).
 - **"kind of hand"**: a kind of hand is one of
-  * a "single card" (that is, just the one card)
-  * a "pair" (that is, 2 cards of same rank in the **trou du cul card order**)
-  * a "three of a kind" (that is, 3 cards of same rank in the
+  * a "single card" (i.e. just the one card)
+  * a "pair" (i.e. 2 cards of same rank in the **trou du cul card order**)
+  * a "three of a kind" (i.e. 3 cards of same rank in the
       **trou du cul card order**)
-  * a "four of a kind" (that is, 4 cards of same rank in the
+  * a "four of a kind" (i.e. 4 cards of same rank in the
       **trou du cul card order**)
 - **trou du cul card order"**: the card order used in "Trou du cul", Basically
     the *usual order* with the exception that `2`s are highest, that is
