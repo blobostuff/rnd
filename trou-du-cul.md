@@ -192,4 +192,5 @@ trou du cul card order_**, the current player can only choose to **fold**.
 
 > Note that this rule implies that playing *a four of a kind* means an instant
 > win on the round. This also implies that only the opening player of a round can
-> play *a four of a kind*.
+> play *a four of a kind*. This also explains why there is no order defined on the
+> *four of a kind* **kind of hand**.
